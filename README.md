@@ -1,3 +1,9 @@
+Current projects in progress
+[Simple Login and Register PHP](https://github.com/FilipKufalov/Simple_Login_And_Register_PHP)
+[Image Template for Social Media Posts HTML & CSS](https://github.com/FilipKufalov/Image-HTML-Template-Generator)
+
+Want to have views counter in your profile page? [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) Take for the quick start
+
 ![](https://komarev.com/ghpvc/?username=FilipKufalov&style=for-the-badge)
 
 <!--
