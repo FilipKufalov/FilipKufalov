@@ -1,7 +1,5 @@
 Current projects in progress  
-1. [Simple Login and Register PHP](https://github.com/FilipKufalov/Simple_Login_And_Register_PHP)  
-2. [Image Template for Social Media Posts HTML & CSS](https://github.com/FilipKufalov/Image-HTML-Template-Generator)  
-3. [HTML XML Blogger Template](https://github.com/FilipKufalov/HTML-XML-Blogger-Template)
+1. [Image Template for Social Media Posts HTML & CSS](https://github.com/FilipKufalov/Image-HTML-Template-Generator)  
 
 Want to have views counter in your profile page? [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) Take for the quick start
 
