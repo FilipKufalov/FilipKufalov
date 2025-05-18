@@ -1,11 +1,10 @@
-Current projects in progress  
-1. [Image Template for Social Media Posts HTML & CSS](https://github.com/FilipKufalov/Image-HTML-Template-Generator)  
-
 Want to have views counter in your profile page? [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) Take for the quick start
 
-![](https://komarev.com/ghpvc/?username=FilipKufalov&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=FilipKufalov&style=for-the-badge&color=orange)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKufalov&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKufalov&layout=compact&theme=gruvbox)
+
+
 
 <!--
 **FilipKufalov/FilipKufalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
