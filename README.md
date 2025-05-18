@@ -5,6 +5,8 @@ Want to have views counter in your profile page? [GitHub Profile Views Counter](
 
 ![](https://komarev.com/ghpvc/?username=FilipKufalov&style=for-the-badge)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKufalov&layout=compact)
+
 <!--
 **FilipKufalov/FilipKufalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
